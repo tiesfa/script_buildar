@@ -1,0 +1,129 @@
+body {
+  background-color: #302F30;
+
+  font-family: 'Press Start 2P', Arial, cursive;
+}
+
+
+
+/* Fonts */
+h1, h2, a {
+  color: #ffffff;
+  text-transform: uppercase;
+}
+.text li {
+  color:#ffffff;
+  font-family: 'Source Code Pro', sans-serif;
+}
+h4 {
+  color: #E24D4E;
+}
+p, textarea {
+  color: #ffffff;
+  font-family: 'Source Code Pro', sans-serif;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+	color: #E24D4E;
+	text-decoration: none;
+	transition: 0.5s ease;
+}
+
+.active {
+  color: #E24D4E;
+}
+h1 span {
+  color: #E24D4E;
+}
+
+
+
+/* Navigation */
+nav {
+  padding-top: 90px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+nav ul {
+  display: flex;
+}
+nav ul li {
+  list-style: none;
+}
+nav ul li a {
+  padding: 1rem 0;
+  margin: 0 3rem;
+  position: relative;
+  letter-spacing: 2px;
+}
+nav ul li a:last-child {
+  margin-right: 0;
+}
+
+.logo {
+  font-size: 3rem;
+  font-weight: 300;
+}
+.logo span {
+  color: #E24D4E;
+}
+
+#active {
+	color: #E24D4E;
+}
+
+.nav {
+  margin-bottom: 20px;
+  margin-left: 0;
+  list-style: none
+}
+
+
+
+/* Form */
+label {
+  color: #E24D4E;
+}
+.form-control-file {
+  color: #E24D4E;
+}
+
+
+
+/* Section */
+.section {
+  padding-top: 15px;
+  padding-bottom: 165px;
+}
+.inner-section {
+  padding-top: 150px;
+}
+.inner-section a {
+  color: #E24D4E;
+}
+.inner-section video {
+  width: 100%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #ffffff;
+}
+.btn-spacing {
+  padding-top: 15px;
+}
+.btn-spacing-bottom {
+  padding-bottom: 15px;
+}
+
+
+
+/* Alert */
+.notifyjs-corner {
+  font-family: 'Press Start 2P';
+  font-size: 18px;
+  text-transform: uppercase;
+}
