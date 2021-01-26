@@ -50,4 +50,4 @@ Datamanagement: ![datamanagement](https://github.com/tiesfa/script_buildar/blob/
 ## License
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-_Ties Aarts 2021 ©_
+_© 2021 TIES AARTS_
