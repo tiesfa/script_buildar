@@ -46,3 +46,8 @@ Mainpage: ![mainpage](https://github.com/tiesfa/script_buildar/blob/main/images/
 Documentation: ![documentation](https://github.com/tiesfa/script_buildar/blob/main/images/wireframe_documentation-2x.png)
 
 Datamanagement: ![datamanagement](https://github.com/tiesfa/script_buildar/blob/main/images/wireframe_datamanagemen-2x.png)
+
+## License
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+_Ties Aarts 2021 ©_
